@@ -6,7 +6,7 @@ Supporting Library
 - https://github.com/metal3d/keras-video-generators
 
 Data:
-Generate your data into avi video. Check out the sample files in sample folder.
+Generate your gesture data into avi video. Check out the sample files in sample folder. Organize them in folders named by their gesture class name
 
 Training:
 Train your model using ModelTraining-Gestures.ipynb
